@@ -4,7 +4,7 @@ extensions = [
     'sphinx.ext.napoleon',
 ]
 master_doc = 'index'
-project = 'El Camino Real'
+project = 'Useful'
 copyright = '2017 (c) Moshe Zadka'
 author = 'Moshe Zadka'
 version = '0.0'

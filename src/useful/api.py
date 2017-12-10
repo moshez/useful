@@ -1,3 +1,8 @@
+"""
+API definitions
+
+Using apipkg to define the package API
+"""
 import apipkg
 apipkg.initpkg(__name__, {
     'add1': "useful._useful:add1",

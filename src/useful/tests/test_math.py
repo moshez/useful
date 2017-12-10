@@ -2,6 +2,7 @@ import unittest
 
 import useful
 
+
 class MathTest(unittest.TestCase):
 
     def test_add(self):
